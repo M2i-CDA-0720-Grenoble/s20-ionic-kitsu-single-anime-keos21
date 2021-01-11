@@ -1,0 +1,7 @@
+{
+  "name": "ionic-starwars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
